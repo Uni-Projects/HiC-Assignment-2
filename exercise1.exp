@@ -1,0 +1,8 @@
+The architecture is little-endian.
+
+i address: from 0x7fffcc061b7e to 0x7fffcc061b7f because it is 2 bytes.
+x address: 0x7fffcc061b7d since it is 1 byte.
+sn1 address: from 0x7fffcc061b80 to 0x7fffcc061b87 since it is 8 bytes.
+sn2 address: from 0x7fffcc061b88 to 0x7fffcc061b8f, same as sn1.
+y[] address: from 0x7fffcc061b90 to 0x7fffcc061b97, since it has 2 int of 4 bytes each.
+
